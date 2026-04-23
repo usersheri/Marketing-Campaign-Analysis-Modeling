@@ -89,17 +89,22 @@ Power BI
 Jupyter Notebook
 
 📁 Project Structure
+
 ├── data/              # Raw & cleaned datasets
 ├── notebooks/         # Analysis & modeling
 ├── dashboard/         # Power BI files
 ├── models/            # Saved models
 ├── README.md
+
 🌟 What Makes This Project Stand Out
+
 End-to-end workflow: Data Cleaning → EDA → ML → Dashboard
 Combines analytics + business understanding
 Focus on real-world marketing optimization
 Clear, interpretable model (Lasso Regression)
+
 🔮 Future Enhancements
+
 Implement advanced models (Random Forest, XGBoost)
 Perform hyperparameter tuning
 Add cross-validation
